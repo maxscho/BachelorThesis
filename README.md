@@ -1,4 +1,4 @@
-# BachelorThesis
+# Code used in my Bachelor Thesis
 
 This repository contains the code used in my Bachelor Thesis.
 
