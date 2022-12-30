@@ -7,3 +7,5 @@ This repository contains the code used in my Bachelor Thesis.
 - figure_script.ipynb: Jupyer Notebook used to create figures for the thesis
 
 - data.csv: data source of the figures
+
+Maximilian Schoditsch Wirtschaftsuniversität Wien 2022
